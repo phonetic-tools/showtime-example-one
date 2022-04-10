@@ -1,0 +1,20 @@
+{
+  "name": "showtime-example-one",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phonetic-tools/showtime-example-one.git"
+  },
+  "author": "Philip Bordallo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phonetic-tools/showtime-example-one/issues"
+  },
+  "homepage": "https://github.com/phonetic-tools/showtime-example-one#readme"
+}
